@@ -1,0 +1,8 @@
+{
+  "name": "Remix beko1",
+  "description": "نظام إدارة ومبيعات وتوزيع قطع غيار السيارات بالجملة مع نظام متكامل لرأس المال والمصروفات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
